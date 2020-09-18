@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I'm John Daly, I'm a web dev in Portland, Oregon
+#### I mostly work in React and Node.js
+#### I love learning new things and expanding my skillset
+#### If your open source project needs help I'd love to contribute!
+You can get ahold of me at jcdaly97@gmail.com
+
 
 <!--
 **jcdaly97/jcdaly97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
